@@ -2,6 +2,7 @@
   "name": "inshortsclone",
   "version": "0.1.0",
   "private": true,
+  "proxy":"https://newsapi.org",
   "homepage": "http://siddharth17vaishnav.github.io/InshorCloneReactJs",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
